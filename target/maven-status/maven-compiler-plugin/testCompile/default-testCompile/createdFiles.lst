@@ -1,0 +1,8 @@
+com\hcl\magentotest\ReferenceTest.class
+com\hcl\magentopages\MainPage.class
+com\hcl\utilities\ExcelUtils.class
+com\hcl\magentopages\LoginPage.class
+com\hcl\base\WebDriverWrapper.class
+com\hcl\magentopages\HomePage.class
+com\hcl\magentotest\LoginTest.class
+com\hcl\magentotest\RegisterTest.class
